@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.fa-user{
+    color: #333;
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 5px 5px;
+    font-size: 1.5rem;
+}
+
+.fa-cart-arrow-down{
+    color: #333;
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 5px 5px;
+    font-size: 1.5rem;
+}
+
+.fa-globe{
+    color: #333;
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 5px 5px;
+    font-size: 1.5rem;
+}
+
+.nav-search{
+    border-radius: 100px;
+}
+
+.navbar{
+    background-color: black;
+    font-family: "Montserrat";
+    font-weight: 900;
+}
+
+body{
+    font-family: "Montserrat";
+}
+
+h1{
+    font-weight: 900;
+}
+
+button{
+    font-weight: 900;
+}
+
+#bg-img{
+    background-image: url(images/funko-bg.png);
+    min-height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: scroll;
+    /* margin: 50px 300px; */
+}
+
+.front-bg {
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 75vh;
+}
+
+#body-text{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    float: left;
+}
